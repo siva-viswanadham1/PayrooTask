@@ -35,5 +35,13 @@ module.exports={
                 use: ['style-loader', 'css-loader']
             }
         ]
-    }
+    },
+    devServer: {
+
+        proxy: [{
+            context: ['/api'],
+            target: 'http://localhost:9000',
+        }]
+        
+    },
 }

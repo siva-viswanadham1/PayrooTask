@@ -1,0 +1,12 @@
+const express=require('express')
+require('dotenv').config()
+const app=express()
+const dbConfig=require('./config/dbConfig')
+const userRouter=require('./routes/userRoute')
+const hotelRouter=require('./routes/hotelRoute')
+app.use(express.json())
+app.use('/api/users',userRouter.router)
+app.use('/api/hotel',hotelRouter.router)
+app.listen(9000,()=>{
+    console.log('server is started')
+})
