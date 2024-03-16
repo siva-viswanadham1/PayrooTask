@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 
 import { Tabs,DatePicker } from "antd";
 import Hotels from '../components/Hotels';
+import MyBooking from '../components/MyBooking';
 
 
 
@@ -14,7 +15,7 @@ return (
           <Hotels />
         </Tabs.TabPane>
         <Tabs.TabPane tab='Bookings' key='2'>
-          <div>Bookings</div>
+          <MyBooking />
         </Tabs.TabPane>
     </Tabs>
     </div>

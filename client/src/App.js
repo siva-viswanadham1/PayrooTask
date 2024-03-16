@@ -9,6 +9,7 @@ import './stylesheets/custom.css';
 import './stylesheets/form-element.css';
 import './stylesheets/sizes.css';
 import './stylesheets/themes.css';
+import './stylesheets/hotelcard.css'
 import './components/ProtectedRoute'
 import ProtectedRoute from './components/ProtectedRoute';
 import 'remixicon/fonts/remixicon.css';
