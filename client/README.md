@@ -36,16 +36,16 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 Dependencies:
-@reduxjs/toolkit: Toolkit for efficient Redux development
-antd: React UI library
-axios: Promise-based HTTP client
-js-cookie: JavaScript API for handling cookies
-moment: Parse, validate, manipulate, and display dates and times in JavaScript
-react: JavaScript library for building user interfaces
-react-dom: DOM-specific methods for React
-react-redux: Official React bindings for Redux
-react-router-dom: DOM bindings for React Router
-remixicon: Icon library
+@reduxjs/toolkit: Toolkit for efficient Redux development,
+antd: React UI library,
+axios: Promise-based HTTP client,
+js-cookie: JavaScript API for handling cookies,
+moment: Parse, validate, manipulate, and display dates and times in JavaScript,
+react: JavaScript library for building user interfaces,
+react-dom: DOM-specific methods for React,
+react-redux: Official React bindings for Redux,
+react-router-dom: DOM bindings for React Router,
+remixicon: Icon library,
 
 
 
