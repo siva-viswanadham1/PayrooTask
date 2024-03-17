@@ -1,6 +1,7 @@
 # Server Apllication 
 
 This is a backend application for Hotel Booking App, built with Node.js, Express, and MongoDB.
+## Note - use edit option then readme file looks clear 
 
 ## Installation
 
