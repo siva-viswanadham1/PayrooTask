@@ -1,7 +1,7 @@
 # Client Application
 
 This is a client application for Hotel Booking App, built with React and Redux.
-
+## Note - use edit option then readme file looks clear
 ## Installation
 
 1. Clone the repository:
